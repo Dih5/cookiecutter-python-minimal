@@ -1,0 +1,11 @@
+{
+    "author_name": "Dih5",
+    "author_email": "dihedralfive@gmail.com",
+
+    "package_name": "foobar",
+    "package_version": "0.1.0",
+    "package_description": "Python package to foo all of your bars.",
+    "package_url": "https://github.com/dih5/foobar",
+    
+    "_extensions": ["jinja2_time.TimeExtension"]
+}
